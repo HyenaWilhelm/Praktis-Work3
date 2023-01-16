@@ -1,0 +1,45 @@
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\obj\Debug\net6.0\Пианино.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\obj\Debug\net6.0\Пианино.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\obj\Debug\net6.0\Пианино.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\obj\Debug\net6.0\Пианино.AssemblyInfo.cs
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\obj\Debug\net6.0\Пианино.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\bin\Debug\net6.0\Пианино.exe
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\bin\Debug\net6.0\Пианино.deps.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\bin\Debug\net6.0\Пианино.runtimeconfig.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\bin\Debug\net6.0\Пианино.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\bin\Debug\net6.0\Пианино.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\obj\Debug\net6.0\Пианино.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\obj\Debug\net6.0\refint\Пианино.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\obj\Debug\net6.0\Пианино.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\obj\Debug\net6.0\Пианино.genruntimeconfig.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Пианино\Пианино\obj\Debug\net6.0\ref\Пианино.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\bin\Debug\net6.0\Пианино.exe
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\bin\Debug\net6.0\Пианино.deps.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\bin\Debug\net6.0\Пианино.runtimeconfig.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\bin\Debug\net6.0\Пианино.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\bin\Debug\net6.0\Пианино.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\obj\Debug\net6.0\Пианино.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\obj\Debug\net6.0\Пианино.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\obj\Debug\net6.0\Пианино.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\obj\Debug\net6.0\Пианино.AssemblyInfo.cs
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\obj\Debug\net6.0\Пианино.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\obj\Debug\net6.0\Пианино.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\obj\Debug\net6.0\refint\Пианино.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\obj\Debug\net6.0\Пианино.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\obj\Debug\net6.0\Пианино.genruntimeconfig.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино\Пианино\obj\Debug\net6.0\ref\Пианино.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\bin\Debug\net6.0\Пианино.exe
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\bin\Debug\net6.0\Пианино.deps.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\bin\Debug\net6.0\Пианино.runtimeconfig.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\bin\Debug\net6.0\Пианино.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\bin\Debug\net6.0\Пианино.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\obj\Debug\net6.0\Пианино.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\obj\Debug\net6.0\Пианино.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\obj\Debug\net6.0\Пианино.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\obj\Debug\net6.0\Пианино.AssemblyInfo.cs
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\obj\Debug\net6.0\Пианино.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\obj\Debug\net6.0\Пианино.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\obj\Debug\net6.0\refint\Пианино.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\obj\Debug\net6.0\Пианино.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\obj\Debug\net6.0\Пианино.genruntimeconfig.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Пианино (задать вопрос преподу)\Пианино\obj\Debug\net6.0\ref\Пианино.dll
